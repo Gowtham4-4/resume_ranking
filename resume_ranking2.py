@@ -138,6 +138,7 @@ else:
 st.markdown("""
 ---
 <div style='text-align: center; font-size: 14px;'>
-    Developed by Gowtham 💼 | Contact: <a href="mailto:gowthamperumallapalli@gmail.com">gowthamperumallapalli@gmail.com</a> | <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+    Developed by Gowtham 💼 | Contact: <a href="mailto:gowthamperumallapalli@gmail.com">gowthamperumallapalli@gmail.com</a> | <a href="https://www.linkedin.com/in/gowtham-perumallapalli/?lipi=urn%3Ali%3Apage%3Ap_mwlite_my_network%3B1Vc2MwLoRo%2B4ZqlTEwFGqg%3D%3D" target="_blank">LinkedIn</a>
 </div>
 """, unsafe_allow_html=True)
+
